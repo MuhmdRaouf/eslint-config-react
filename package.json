@@ -1,0 +1,30 @@
+{
+  "name": "@muhmdraouf/eslint-config-react",
+  "version": "0.0.1",
+  "description": "ESLint and TypeScript configuration for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . --config index.js --ext .js,.jsx,.ts,.tsx --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhmdraouf/eslint-config-react.git"
+  },
+  "author": "Mohammed Abdel Raouf <mohammed@raouf.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhmdraouf/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/muhmdraouf/eslint-config-react#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.14",
+    "eslint": "^7.31.0",
+    "jest": "^27.0.6",
+    "react": "17.0.2"
+  },
+  "dependencies": {
+    "@muhmdraouf/eslint-config": "^0.0.2",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "MuhmdRaouf's config",
+  "extends": "@muhmdraouf/eslint-config/tsconfig",
+  "compilerOptions": {
+    /* Language and Environment Options */
+    "jsx": "react-jsx",                       /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
+    "lib": ["DOM", "DOM.Iterable", "ESNext"]  /* Specify library files to be included in the compilation. */
+  },
+  "exclude": ["node_modules", "build"]
+}
