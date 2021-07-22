@@ -1,6 +1,6 @@
 {
   "name": "@muhmdraouf/eslint-config-react",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "ESLint and TypeScript configuration for React.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "react": "17.0.2"
   },
   "dependencies": {
-    "@muhmdraouf/eslint-config": "^0.0.2",
+    "@muhmdraouf/eslint-config": "^1.0.0",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0"
   }
