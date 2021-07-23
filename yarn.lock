@@ -523,10 +523,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@muhmdraouf/eslint-config@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config/-/eslint-config-1.0.2.tgz#d3b072f5e9efa929c5d8a2a81e7743350fa246f6"
-  integrity sha512-LPiYJ1J1Zi7mzIdsHLppFbIYresoUQFzx+0qal2pyL0/VFhwSGwX33FtbsGN4UiLciHQfx53JQMwXrySX/j/4A==
+"@muhmdraouf/eslint-config@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@muhmdraouf/eslint-config/-/eslint-config-1.0.3.tgz#3f581d9e67b3509da1fabd685421a1b76f849096"
+  integrity sha512-egwSRXURY/JAqZOtL41Y+dOjHPSyK+5k34ZPzaVsF/GLKTJwAJ6zPSKgQErGRe4NZQ+wqyyTbjnU6kqyk0j06g==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.28.4"
     "@typescript-eslint/parser" "^4.28.4"
