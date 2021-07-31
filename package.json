@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/muhmdraouf/eslint-config-react#readme",
   "devDependencies": {
-    "@types/react": "^17.0.14",
-    "eslint": "^7.31.0",
+    "@types/react": "^17.0.15",
+    "eslint": "^7.32.0",
     "jest": "^27.0.6",
     "react": "17.0.2"
   },
   "dependencies": {
-    "@muhmdraouf/eslint-config": "^1.0.4",
+    "@muhmdraouf/eslint-config": "^1.0.6",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0"
   }
